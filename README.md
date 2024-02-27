@@ -6,7 +6,8 @@ prompt engineering refers to the use of strategies to influence human or system 
 
 -------------------------------
 # Mentee Info!
-Name : Zakhrotunnisa
-Program : IBM Advance
-Mentor : Ichsan Taqwa
+##Name : Zakhrotunnisa
+##Program : IBM Advance
+##Mentor : Ichsan Taqwa
+
 In an engineering context, engineering prompts can have important implications for safety and security. Providing timely and effective warnings or instructions can help prevent accidents or serious errors.
